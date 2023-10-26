@@ -1,5 +1,5 @@
 
-# Applying NLP on a textbook and doing frequency analysis and POS tagging on them and playing shanon game with them.
+# Applying NLP concepts like tokenization, frequency distribution ,Pos tagging ,Shannon game playing etc on an english novel by using python programming.
 Team SPAN members
 ::  Soumyadeep Chakraborty(21dcs010) , Nitish Pareek(21ucs139), Pranjal Bansal(21ucs154), Ayush Agarwal (21ucs044)
 
